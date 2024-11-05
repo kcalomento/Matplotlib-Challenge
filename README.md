@@ -1,6 +1,6 @@
-# 🧬 Pymaceuticals Inc. - SCC Treatment Study 🧬
+# 🧬 Pymaceuticals Inc. - SCC Treatment Study 
 
-Welcome to **Pymaceuticals Inc.**, where we tackle cancer research with data-driven insights! This project explores various drug regimens to treat **squamous cell carcinoma (SCC)** in mice, with a focus on uncovering the efficacy of different treatments, including some potential star drugs like **Capomulin** and **Ramicane**. Get ready to dive deep into data and discover some interesting findings!
+This project explores various drug regimens to treat **squamous cell carcinoma (SCC)** in mice, with a focus on uncovering the efficacy of different treatments, including some potential star drugs like **Capomulin** and **Ramicane**. Get ready to dive deep into data and discover some interesting findings!
 
 ## 📊 Project Overview
 
