@@ -57,5 +57,3 @@ The analysis is packed with graphs, including:
 ## 📝 Conclusion and Future Directions
 
 Our findings suggest that **Capomulin and Ramicane are the leading candidates for effective SCC treatment**. We also noticed potential effects of gender and weight on treatment efficacy, hinting at the value of personalized treatment plans. Future studies with larger sample sizes could expand on these insights and fine-tune dosing strategies for optimal results.
-
-Happy data exploring! 🎉
