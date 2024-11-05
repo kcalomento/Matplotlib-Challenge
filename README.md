@@ -32,18 +32,18 @@ To run this analysis locally, follow these steps:
 
 Here’s a sneak peek at some of the cool things you’ll find in this project:
 
-### 1. **Drug Regimen Comparison** 🧪
+### 1. **Drug Regimen Comparison** 
    - **Capomulin and Ramicane** emerged as the top contenders for reducing tumor size, showing lower average tumor volumes than other treatments.
    - **Infubinol** had some wild outliers, indicating inconsistent effects across mice.
 
-### 2. **Gender Distribution and Impact** 🚻
+### 2. **Gender Distribution and Impact** 
    - Our sample was almost evenly split by gender, reducing bias.
    - While there were slight differences in tumor volume by gender under Capomulin, more research is needed to confirm if gender affects treatment outcomes.
 
-### 3. **Tumor Volume Over Time** 📉
+### 3. **Tumor Volume Over Time** 
    - Tumor volume tracked over time for a sample mouse treated with Capomulin showed consistent reduction, showcasing its potential as an effective treatment.
 
-### 4. **Mouse Weight and Tumor Volume Correlation** ⚖️
+### 4. **Mouse Weight and Tumor Volume Correlation** 
    - Heavier mice tend to have slightly larger tumor volumes on average. This insight could inform customized dosing strategies for Capomulin based on weight.
 
 ## 📈 Visualizations 
